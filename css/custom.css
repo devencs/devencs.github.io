@@ -51,6 +51,11 @@ footer {
     padding: 0px 50px;
 }
 
+.jumbotron .form-control {
+    height: 70px;
+    font-size: 36px;
+}
+
 .btn-lg {
     font-size: 36px;
 }
